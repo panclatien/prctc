@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-사과
+사과입니다.
 </body>
 </html>
