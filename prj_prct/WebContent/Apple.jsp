@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h1> master page.</h1>
- <a href="Apple.jsp">사과</a>
+사과
 </body>
 </html>
