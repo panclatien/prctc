@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h1> master page.</h1>
-  <a href="Orenge.jsp">오렌지</a>
- <a href="Apple.jsp">사과</a>
- <a href="Lemon.jsp">레몬</a>
 
 </body>
 </html>
